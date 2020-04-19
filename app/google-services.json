@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1033249283303",
+    "firebase_url": "https://mytodolistsp2020-e382f.firebaseio.com",
+    "project_id": "mytodolistsp2020-e382f",
+    "storage_bucket": "mytodolistsp2020-e382f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033249283303:android:db45799980c182dc155642",
+        "android_client_info": {
+          "package_name": "edu.student.mytodolistsp2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033249283303-qjlddht7fr7t3p2cgqimi3f8n5ed9mfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.student.mytodolistsp2020",
+            "certificate_hash": "9077e93ceb870284e30f736b7e9aead68b4d2362"
+          }
+        },
+        {
+          "client_id": "1033249283303-qp7vh6qajve5uu1h974f0umc20lg87ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN0ZODEA4sSQxWvnqzVScLBbTSK0Ljs0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033249283303-qp7vh6qajve5uu1h974f0umc20lg87ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
